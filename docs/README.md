@@ -60,7 +60,7 @@
 ## Valid
 - [x] 금액 유효성 검증
 - [x] 상품 유효성 검증
-- [ ] 수량 유효성 검증
+- [x] 수량 유효성 검증
 
 유효하지 않은 경우 `IllegalArgumentException` 발생
 

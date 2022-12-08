@@ -57,6 +57,8 @@
 
 잘못된 입력에 대해 `IllegalArgumentException` 발생
 
+- [x] 동전 개수 객체를 알맞는 형식의 문자열로 반환
+
 ## Valid
 - [x] 금액 유효성 검증
 - [x] 상품 유효성 검증
